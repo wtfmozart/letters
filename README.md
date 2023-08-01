@@ -22,10 +22,10 @@ To start the minigame, use the export `start` like so:
 
 ```lua
 exports.letters:start({
-	lives: 3, -- How many letters the player can miss
-	speed: 0.3,
-	maxScore: 4, -- How many letters the player has to type to win
-	letters: ['A', 'S', 'D'], -- Optional. Defaults to all letters
+	lives = 3, -- How many letters the player can miss
+	speed = 0.3,
+	maxScore = 4, -- How many letters the player has to type to win
+	letters = {'A', 'S', 'D'}, -- Optional. Defaults to all letters
 }, function(result)
 	if result then
 		-- The player won
