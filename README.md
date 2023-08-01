@@ -8,7 +8,7 @@ Join my [**Discord**](https://discord.gg/NMTY4aKftS) for support.
 
 ## Demo
 
-https://cdn.discordapp.com/attachments/1135993516842029130/1135993585947381941/letters.gif
+![Letters Demo](https://cdn.discordapp.com/attachments/1135993516842029130/1135993585947381941/letters.gif)
 
 ## Installation
 
